@@ -1,5 +1,5 @@
-### PowerShell template profile 
-### Version 1.00 - Joseph Leandre Derpo <derpojoseph@gmail.com>
+### Simple PowerShell template profile 
+### Version 1.00 - Joseph Leandre Derpo
 ###
 ### This file should be stored in $PROFILE.CurrentUserAllHosts
 ### If $PROFILE.CurrentUserAllHosts doesn't exist, you can make one with the following:
