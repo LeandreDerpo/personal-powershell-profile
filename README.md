@@ -1,5 +1,5 @@
 # Personal Powershell Profile
-Make powershell profile look good with themes and neat shortcuts.
+Make PowerShell profile look good with themes and neat shortcuts.
 
 ## Themes
 JanDeDobbeleer/oh-my-posh prompt theme engine was used to make the customization of the powershell happen.
