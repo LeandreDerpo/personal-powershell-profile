@@ -12,7 +12,7 @@
 ### This is the default policy on Windows Server 2012 R2 and above for server Windows. For 
 ### more information about execution policies, run Get-Help about_Execution_Policies.
 
-### Inspiration taken from ChrisTitusTech and devaslife in setting up this PowerShell prompt
+### Inspired by ChrisTitusTech and devaslife in setting up this PowerShell prompt
 
 # Prompt
 oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\uew.omp.json" | Invoke-Expression
